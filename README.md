@@ -8,3 +8,4 @@ link：https://zhuanlan.zhihu.com/p/34325398；
       
 SSD:  https://zhuanlan.zhihu.com/p/33544892
       https://blog.csdn.net/qianqing13579/article/details/82106664#ssd的缺点及改进
+      https://blog.csdn.net/a8039974/article/details/77592395
