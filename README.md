@@ -1,5 +1,5 @@
 # Paper-interpretation-and-recode
-# https://blog.csdn.net/a8039974/article/details/77592395
+# 
 DeepLearning paper interpretation and recode
 
 1.Objection detection：
