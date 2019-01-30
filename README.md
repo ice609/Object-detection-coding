@@ -2,6 +2,8 @@
 # 
 DeepLearning paper interpretation and recode
 
+YOLO: https://pjreddie.com/darknet/yolo/
+
 1.Objection detection：
 link：https://zhuanlan.zhihu.com/p/34325398；
       https://zhuanlan.zhihu.com/p/35325884；
